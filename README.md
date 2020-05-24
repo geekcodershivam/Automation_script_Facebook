@@ -1,5 +1,6 @@
 # Automation_script_Facebook
-[![FB Bot](http://img.shields.io/badge/Automation-facebook--Autoliker-green.svg?style=flat&logo=facebook)]
+
+![FB Bot](http://img.shields.io/badge/Automation-facebook--Autoliker-green.svg?style=flat&logo=facebook)
 
 # install dependencies
 ```JS
